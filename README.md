@@ -1,6 +1,10 @@
-## Test our Web page
+## Test our Web page (In Construction)
  https://robydoidao2006.github.io/ENS/
-
+ 
+## Objective
+Our goal is to create a responsive Web page that would display its content &
+functionality accordingly to the device you are visiting the web page from.
+ 
 ## How to run the html file localy
  
  1) pull the repository. 
