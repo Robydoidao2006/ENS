@@ -16,7 +16,7 @@
  2) unzip the file.
  3) Drag and drop the unzip folder on a text editor of your choice.
  4) open your command line
- 5) type this command > nmp install < wait for packages to be install.
+ 5) type this command > npm install < wait for packages to be install.
  6) type this command > node server.js <
  7) Open your browser and type > http://localhost:3000/ <
 
