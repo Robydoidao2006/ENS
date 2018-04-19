@@ -23,20 +23,21 @@
 
 ## Update Section
 
-#update april 19. 2018
-- added social media to footer
-- added quick links to footer
-- added HQ to footer
+Update april 19. 2018
+- added the comming up events to the home page.
+- added social media to footer.
+- added quick links to footer.
+- added HQ to footer.
 
-#update april 18. 2018.
+Update april 18. 2018.
 - Fixed Email.
 
-#update april 17. 2018
+Update april 17. 2018
 - added link to pdf file
 - added 3 png files
 - added footer
 
-#update april 15. 2018.
+Update april 15. 2018.
 - Added png logo
 - added info to body
 
