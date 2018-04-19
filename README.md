@@ -1,37 +1,42 @@
 ## Test our Web page
  https://robydoidao2006.github.io/ENS/
+
+## How to run the html file localy
  
- ## How to run localy
+ 1) pull the repository. 
+ 2) unzip the file.
+ 3) Drag and drop the unzip folder on a text editor of your choice.
+ 4) open your command line
+ 5) cd to the directory
+ 6) look for a index.html and right clicke > open in browser.
  
- 1)pull the repository. 
- 2)unzip the file.
- 3)open it on a text editor of your choice.
- 4)open your command line
- 5)cd to the directory of the repository
+## How to run server.js
 
-head to public > and opem index.html on your browser.
-
-- in future improvements we will run this by usen express/handlebars.
-
-1) cd ENS directory
-
-2) npm install
-
-3) node server.js
+ 1) pull the repository. 
+ 2) unzip the file.
+ 3) Drag and drop the unzip folder on a text editor of your choice.
+ 4) open your command line
+ 5) type this command > nmp install < wait for packages to be install.
+ 6) type this command > node server.js <
+ 7) Open your browser and type > http://localhost:3000/ <
 
 
-## Updates Section
+## Update Section
 
 #update april 18. 2018.
 - Fixed Email.
 
-#update april 15. 2018.
-- Added png logo
-- added info on body
+#update april 17. 2018
 - added link to pdf file
 - added 3 png files
 - added footer
 
+#update april 15. 2018.
+- Added png logo
+- added info to body
+
+
+##
 
 
 
