@@ -25,12 +25,13 @@
 
 Update april 19. 2018
 - added the comming up events to the home page.
-- added social media to footer.
-- added quick links to footer.
+- added hover drop down menu
 - added HQ to footer.
 
 Update april 18. 2018.
 - Fixed Email.
+- added social media to footer.
+- added quick links to footer.
 
 Update april 17. 2018
 - added link to pdf file
