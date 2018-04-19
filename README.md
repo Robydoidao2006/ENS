@@ -23,6 +23,11 @@
 
 ## Update Section
 
+#update april 19. 2018
+- added social media to footer
+- added quick links to footer
+- added HQ to footer
+
 #update april 18. 2018.
 - Fixed Email.
 
